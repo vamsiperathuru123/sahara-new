@@ -23,7 +23,7 @@ function Footer(){
            </div>
            <div className="scrolling__text_f">
                 <Marquee speed='70' direction='right'>
-                    <h3 className="scr1">Disclaimer - " Some Images are imported from other websites like amazon,boat, etc."</h3>
+                    <h3 className="scr1">" Some Images are imported from other websites like amazon,boat, etc."</h3>
                     
 
                 </Marquee>

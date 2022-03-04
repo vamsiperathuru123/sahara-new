@@ -92,7 +92,7 @@ function ViewMore(){
                             {show9?<button className='V_button_h' pathname="pet supplies" onClick={() => {window.location.href="https://amzn.to/3Kevpt1"}} target="_blank">Cotton Sarees</button>:null}
                             {show9?<button className='V_button_h' pathname="pet supplies" onClick={() => {window.location.href="https://amzn.to/3hAamVF"}} target="_blank">Silk Sarees</button>:null}
                             {show9?<button className='V_button_h' pathname="pet supplies" onClick={() => {window.location.href="https://amzn.to/3Mxfs3g"}} target="_blank">KanchiPattu Sarees</button>:null}
-                            {show9?<button className='V_button_h' pathname="pet supplies" onClick={() => {window.location.href="https://amzn.to/3hFXs8B"}} target="_blank">Normal Sarees</button>:null}
+                            {show9?<button className='V_button_h' pathname="pet supplies" onClick={() => {window.location.href="https://amzn.to/3hFXs8B"}} target="_blank">Casual Sarees</button>:null}
                    
                    {show3?<button className='V_button' pathname="shoes" onClick={() => {window.location.href="https://amzn.to/3MeomSV"}} target="_blank">Shoes</button>:null}
                    {show3?<button className='V_button' pathname="scientific" onClick={() => {window.location.href="https://amzn.to/3HsqL9e"}} target="_blank">Scientific</button>:null}
