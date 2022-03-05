@@ -32,7 +32,7 @@ function Navlinks(){
                         Watches
                     </Link>
                    
-                    <button className='V_button' pathname="popular sales" onClick={() => {window.location.href="https://amzn.to/35pA3py"}} target="_blank" >
+                    <button className='V_button' pathname="popular sales" onClick={() => {window.location.href="https://amzn.to/34dYqWq"}} target="_blank" >
                        Popular Sales
                     </button>
                     
