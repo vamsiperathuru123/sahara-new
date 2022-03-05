@@ -7,10 +7,12 @@ import "./Carousel.css";
 
 import saharahome from './images/saharahome.jpeg';
 import headphones from "./images/headphones.jpg";
-import homeb1 from "./images/homeb1.jpg";
+
 import homeb2 from "./images/homeb2.jpg";
 import homeb3 from "./images/homeb3.jpg";
 import homeb4 from "./images/homeb4.jpg";
+import homeb5 from "./images/homeb5.jpg";
+import homeb6 from "./images/homeb6.jpg";
 
 import { Link } from "react-router-dom";
 import "./Navlinks.css";
@@ -29,10 +31,14 @@ function CarouselHome(){
                <img className="carousel_image"  src={saharahome} alt="h"/>
               {show?<Link className="V_button_Home" to="/Sahara">Go to Sahara Page </Link>:null}
           </button>
-         
-          <div className="carousel_image" onClick={() => {window.location.href="https://amzn.to/3IBme5G"}}>
-             <img className="carousel_image"  onClick={() => {window.location.href="https://amzn.to/3IBme5G"}} src={homeb1}  alt="h"/>
+          <div className="carousel_image" onClick={() => {window.location.href="https://amzn.to/3hHDsCC"}}>
+             <img className="carousel_image"  onClick={() => {window.location.href="https://amzn.to/3hHDsCC"}} src={homeb5}  alt="h"/>
            </div>
+           <div className="carousel_image" onClick={() => {window.location.href="https://amzn.to/3IIWiVJ"}}>
+             <img className="carousel_image"  onClick={() => {window.location.href="https://amzn.to/3IIWiVJ"}} src={homeb6}  alt="h"/>
+           </div>
+         
+         
            <div className="carousel_image" onClick={() => {window.location.href="https://amzn.to/3vuEYA0"}}>
              <img className="carousel_image" onClick={() => {window.location.href="https://amzn.to/3vuEYA0"}} src={homeb2} alt="h"/>
            </div>
