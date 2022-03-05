@@ -22,7 +22,7 @@ function ViewMore(){
             
             <div className="navlinks__outer_n">
                 <div className="navlinks__inner_n">
-                   {show?<button className="V_button" onClick={()=>setShow1(!show1)}>Accessories</button>:null}
+                   {show?<button className="V_button_c" onClick={()=>setShow1(!show1)}>Accessories</button>:null}
                         {show1?<button className='V_button_h' pathname="men" onClick={() => {window.location.href="https://amzn.to/3BPHJgh"}} target="_blank" >for Men</button>:null} 
                         {show1?<button className='V_button_h' pathname="women" onClick={() => {window.location.href="https://amzn.to/3LW10l7"}} target="_blank" >for Women</button>:null}
                         {show1?<button className='V_button_h' pathname="mobiles" onClick={() => {window.location.href="https://amzn.to/35ogCwM"}} target="_blank" >for Mobiles</button>:null}
@@ -43,7 +43,7 @@ function ViewMore(){
                    {show?<button className='V_button' pathname="baby" onClick={() => {window.location.href="https://amzn.to/3M3HLpy"}} target="_blank">Baby</button>:null}
                   
                   
-                   {show?<button className='V_button' onClick={()=>setShow7(!show7)} >Clothing</button>:null}
+                   {show?<button className='V_button_c' onClick={()=>setShow7(!show7)} >Clothing</button>:null}
                              {show7?<button className='V_button_h' pathname="baby" onClick={() => {window.location.href="https://amzn.to/35hhrrH"}} target="_blank">for Women</button>:null}
                              {show7?<button className='V_button_h' pathname="baby" onClick={() => {window.location.href="https://amzn.to/3syPg00"}} target="_blank">for Men</button>:null}
                              {show7?<button className='V_button_h' pathname="baby" onClick={() => {window.location.href="https://amzn.to/3M3HLpy"}} target="_blank">for kids</button>:null}
@@ -56,7 +56,7 @@ function ViewMore(){
                    {show?<button className='V_button' pathname="fashion" onClick={() => {window.location.href="https://amzn.to/3hfnmj5"}} target="_blank">Fashion</button>:null}
                    {show?<button className='V_button' pathname="furniture" onClick={() => {window.location.href="https://amzn.to/3sn1YPA"}} target="_blank">Furniture</button>:null}
                   
-                   {show?<button className="V_button" onClick={()=>setShow6(!show6)}>FootWear</button>:null}
+                   {show?<button className="V_button_c" onClick={()=>setShow6(!show6)}>FootWear</button>:null}
                        {show6?<button className='V_button_h' pathname="cars" onClick={() => {window.location.href="https://amzn.to/3sypyZr"}} target="_blank" >for Men</button>:null}
                        {show6?<button className='V_button_h' pathname="cars" onClick={() => {window.location.href="https://amzn.to/3tmpYBE"}} target="_blank" >for Women</button>:null}           
                        {show6?<button className='V_button_h' pathname="cars" onClick={() => {window.location.href="https://amzn.to/3HFTE1r"}} target="_blank" >for kids</button>:null}
@@ -70,7 +70,7 @@ function ViewMore(){
                    
                    {show3?<button className='V_button' pathname="home" onClick={() => {window.location.href="https://amzn.to/3LZ7UWH"}} target="_blank">Home & Kitchen</button>:null}
                            
-                        {show3?<button className="V_button" onClick={()=>setShow8(!show8)}>Hoodies</button>:null}
+                        {show3?<button className="V_button_c" onClick={()=>setShow8(!show8)}>Hoodies</button>:null}
                            {show8?<button className='V_button_h' pathname="home" onClick={() => {window.location.href="https://amzn.to/3hz7eJs"}} target="_blank">for men</button>:null} 
                            {show8?<button className='V_button_h' pathname="home" onClick={() => {window.location.href="https://amzn.to/3McYgQi"}} target="_blank">for women</button>:null}
                            {show8?<button className='V_button_h' pathname="home" onClick={() => {window.location.href="https://amzn.to/346TD9j"}} target="_blank">for kids</button>:null}
@@ -88,7 +88,7 @@ function ViewMore(){
                    {show3?<button className='V_button' pathname="pet supplies" onClick={() => {window.location.href="https://amzn.to/3Hfc5tO"}} target="_blank">Pet Supplies</button>:null}
                    
                    
-                   {show3?<button className='V_button' onClick={()=>setShow9(!show9)} >Sarees</button>:null}
+                   {show3?<button className='V_button_c' onClick={()=>setShow9(!show9)} >Sarees</button>:null}
                             {show9?<button className='V_button_h' pathname="pet supplies" onClick={() => {window.location.href="https://amzn.to/3Kevpt1"}} target="_blank">Cotton Sarees</button>:null}
                             {show9?<button className='V_button_h' pathname="pet supplies" onClick={() => {window.location.href="https://amzn.to/3hAamVF"}} target="_blank">Silk Sarees</button>:null}
                             {show9?<button className='V_button_h' pathname="pet supplies" onClick={() => {window.location.href="https://amzn.to/3Mxfs3g"}} target="_blank">KanchiPattu Sarees</button>:null}
