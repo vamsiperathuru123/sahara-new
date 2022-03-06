@@ -37,6 +37,7 @@ function Gifts(){
                         <div className='login__container'>
                             <div>
                             <h3 className='lap'>Enter the Details to Get Complementary Gifts on Purchased Products</h3>
+                            <p className='lap_N'>(Note : only Applicable for Amazon products purchased through Our Website ) </p>
                             </div>
                             
                                 <div className="navlinks_g">
@@ -53,7 +54,7 @@ function Gifts(){
                                 <div className="video"   >
                                     <video  className="video_n" muted autoPlay playsInline loop controls  preload="auto" >
                                         <source type="video/mp4" src={saharahomevideo} />
-                                        </video>
+                                    </video>
                         
                                 </div>
        
