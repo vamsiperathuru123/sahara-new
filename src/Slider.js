@@ -16,16 +16,16 @@ function Slider(){
               <ImageScroller   >
                 
                 <div className="card">
-                  <div onClick={() => {window.location.href="https://amzn.to/3KcFFC2"}}  className="card-img">
-                    <a href="https://www.amazon.in/Vivo-Midnight-Additional-Exchange-Offers/dp/B09Q5Z5M9D?smid=A14CZOWI0VEHLG&th=1&linkCode=li3&tag=sahara059-21&linkId=f4d976bc4b5ea862be6724251cb0e8fb&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09Q5Z5M9D&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B09Q5Z5M9D" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
+                  <div onClick={() => {window.location.href="https://amzn.to/3sMyHh6"}}  className="card-img">
+                  <a href="https://www.amazon.in/iQOO-Storage-Processor-FlashCharge-Replacement/dp/B07WHR5RKH?smid=AQUYM0O99MFUT&pf_rd_r=410XEAP39BRVDYNB60GV&pf_rd_p=f690369a-7bb4-48bb-9349-f68a447ef06d&pd_rd_r=d4c9c9d2-00d1-455d-8a45-7cce583ec747&pd_rd_w=cCDB3&pd_rd_wg=4RVDe&linkCode=li3&tag=sahara059-21&linkId=7ee436fc18920c7f4e9209bf3548ce5e&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07WHR5RKH&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B07WHR5RKH" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
                   </div>
-                  <Link  className="card-btn" pathname="deals" onClick={() => {window.location.href="https://amzn.to/3KcFFC2"}} target="_blank">Oppo Phones</Link>
+                  <Link  className="card-btn" pathname="deals" onClick={() => {window.location.href="https://amzn.to/3sMyHh6"}} target="_blank">iQOO Z3 5G</Link>
                 </div>
                 <div className="card">
-                  <div onClick={() => {window.location.href="https://amzn.to/3IJScgb"}}  className="card-img">
-                  <a href="https://www.amazon.in/New-Apple-iPhone-12-64GB/dp/B08L5WHFT9?smid=A14CZOWI0VEHLG&th=1&linkCode=li3&tag=sahara059-21&linkId=7b1adb8f7aa88739767328115feebe93&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer" ><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08L5WHFT9&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B08L5WHFT9" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
+                  <div onClick={() => {window.location.href="https://amzn.to/3vHPyDK"}}  className="card-img">
+                  <a href="https://www.amazon.in/New-Apple-iPhone-12-64GB/dp/B0932QYBH8?smid=A14CZOWI0VEHLG&linkCode=li3&tag=sahara059-21&linkId=34277300fb61921d763c098d0b779313&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0932QYBH8&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B0932QYBH8" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
                   </div>
-                  <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3IJScgb"}} target="_blank">iphone 12</Link>
+                  <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3vHPyDK"}} target="_blank">iphone 12</Link>
                 </div>
                 <div onClick={() => {window.location.href="https://amzn.to/3tyEJBp"}} className="card">
                   <div className="card-img">
@@ -33,11 +33,11 @@ function Slider(){
                   </div>
                   <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3tyEJBp"}} target="_blank">Laptops</Link>
                 </div>
-                <div onClick={() => {window.location.href="https://amzn.to/3tPiCXF"}} className="card">
+                <div onClick={() => {window.location.href="https://amzn.to/3HJnUIP"}} className="card">
                   <div className="card-img">
-                  <a href="https://www.amazon.in/HP-Duplex-Hi-Capacity-Printer-Sensor/dp/B09H342LC8?smid=A14CZOWI0VEHLG&th=1&linkCode=li3&tag=sahara059-21&linkId=928f0216f7ee8891ae8014b07febd403&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09H342LC8&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B09H342LC8" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
+                  <a href="https://www.amazon.in/Mivi-Wireless-Bluetooth-Immersive-Powerful/dp/B08ZYPBSSH?smid=A14CZOWI0VEHLG&th=1&linkCode=li3&tag=sahara059-21&linkId=a195b0c97941b607d225de60352f2ec3&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08ZYPBSSH&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B08ZYPBSSH" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
                   </div>
-                  <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3tPiCXF"}} target="_blank">Printers</Link>
+                  <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3HJnUIP"}} target="_blank">Mivi Earbuds </Link>
                 </div>
                 <div className="card">
                   <div className="card-img" onClick={() => {window.location.href="https://amzn.to/3Mm3iu0"}}>
@@ -103,6 +103,12 @@ function Slider(){
                   <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3vDst5d"}} target="_blank">Sony</Link>
                 </div>
                 <div className="card">
+                  <div className="card-img" onClick={() => {window.location.href="https://amzn.to/3Chvg5f"}}>
+                  <a href="https://www.amazon.in/AGARO-Professional-Concentrator-Diffuser-Temperature/dp/B094XSDC41?smid=A2GTG1HPYW8M2P&linkCode=li3&tag=sahara059-21&linkId=880c7a6cce098a0c21d0fc69128ea78a&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B094XSDC41&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B094XSDC41" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
+                  </div>
+                  <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3Chvg5f"}} target="_blank">Grooming Devices</Link>
+                </div>
+                <div className="card">
                   <div className="card-img" onClick={() => {window.location.href="https://amzn.to/3px5jJS"}}>
                   <a href="https://www.amazon.in/Tulsi-Walnut-Kernels-200g/dp/B01HBRBY5E?smid=AT95IG9ONZD7S&linkCode=li3&tag=sahara059-21&linkId=1d2aa964ff0ff90f335b194ea84d1bb4&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01HBRBY5E&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B01HBRBY5E" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
                   </div>
@@ -162,7 +168,7 @@ function Slider(){
                   </div>
                   <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/34b2M0r"}} target="_blank">Baby</Link>
                 </div>
-                <div className="card">
+              {/*  <div className="card">
                   <div className="card-img" onClick={() => {window.location.href="https://amzn.to/34fD6jt"}}>
                   <a href="https://www.amazon.in/Havells-Brushed-Nickel-Ceiling-1320mm/dp/B071HGM642?smid=AT95IG9ONZD7S&linkCode=li3&tag=sahara059-21&linkId=83e4e77060ac056d8757c2edaf214f6c&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B071HGM642&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img  src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B071HGM642" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
                   </div>
@@ -173,7 +179,7 @@ function Slider(){
                   <a href="https://www.amazon.in/AmazonBasics-Litre-1700-Fryer-Touchscreen/dp/B0842CVYNS?smid=AT95IG9ONZD7S&linkCode=li3&tag=sahara059-21&linkId=2fdf4ff15e7562fa3dd05df8775f0dc5&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0842CVYNS&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B0842CVYNS" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
                   </div>
                   <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3K9l3uy"}} target="_blank">Kitchen Appliances</Link>
-                </div>
+               </div>*/}
                 
                 
                 
