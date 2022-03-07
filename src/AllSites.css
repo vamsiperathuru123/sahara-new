@@ -3,7 +3,7 @@
     margin-top: -10px;
 }
 .slider_all{
-    height: 240px;
+    height: 200px;
     padding-left: 5px;
     background-color:black;
     margin-bottom: 30px;
@@ -12,20 +12,20 @@
 }
     
 .card_all{
-    height: 250px;
-    width: 200px;
+    height: 150px;
+    width: 150px;
     padding-left:10px;
     padding-right:10px;
     justify-content: space-between;
  
 }
 .site{
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 150px;
 }
 .card-img_all{
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 150px;
     cursor: pointer;
    
   }
