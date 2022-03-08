@@ -13,6 +13,7 @@ import homeb3 from "./images/homeb3.jpg";
 import homeb4 from "./images/homeb4.jpg";
 import homeb5 from "./images/homeb5.jpg";
 import homeb6 from "./images/homeb6.jpg";
+import homeb7 from "./images/homeb7.jpg";
 
 import { Link } from "react-router-dom";
 import "./Navlinks.css";
@@ -41,6 +42,9 @@ function CarouselHome(){
          
            <div className="carousel_image" onClick={() => {window.location.href="https://amzn.to/3vuEYA0"}}>
              <img className="carousel_image" onClick={() => {window.location.href="https://amzn.to/3vuEYA0"}} src={homeb2} alt="h"/>
+           </div>
+           <div className="carousel_image" onClick={() => {window.location.href="https://amzn.to/3Mt0Odn"}}>
+             <img className="carousel_image" onClick={() => {window.location.href="https://amzn.to/3Mt0Odn"}} src={homeb7} alt="h"/>
            </div>
            <div className="carousel_image" onClick={() => {window.location.href="https://amzn.to/35vNJix"}}>
              <img className="carousel_image" onClick={() => {window.location.href="https://amzn.to/35vNJix"}} src={homeb3} alt="h"/>
