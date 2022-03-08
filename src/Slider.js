@@ -14,6 +14,12 @@ function Slider(){
             <div className="slider" >
                 
               <ImageScroller   >
+                <div className="card">
+                  <div onClick={() => {window.location.href="https://amzn.to/3pL6lSP"}}  className="card-img">
+                  <a href="https://www.amazon.in/OPPO-Fantastic-Purple-128GB-Storage/dp/B08VB34KJ1?smid=A14CZOWI0VEHLG&linkCode=li3&tag=sahara059-21&linkId=f36821f0751237ef2df2d2fc18e96217&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08VB34KJ1&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B08VB34KJ1" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
+                  </div>
+                  <Link  className="card-btn" pathname="deals" onClick={() => {window.location.href="https://amzn.to/3pL6lSP"}} target="_blank">OPPO  </Link>
+                </div>
                 
                 <div className="card">
                   <div onClick={() => {window.location.href="https://amzn.to/3sMyHh6"}}  className="card-img">
@@ -22,10 +28,10 @@ function Slider(){
                   <Link  className="card-btn" pathname="deals" onClick={() => {window.location.href="https://amzn.to/3sMyHh6"}} target="_blank">iQOO Z3 5G</Link>
                 </div>
                 <div className="card">
-                  <div onClick={() => {window.location.href="https://amzn.to/3vHPyDK"}}  className="card-img">
-                  <a href="https://www.amazon.in/New-Apple-iPhone-12-64GB/dp/B0932QYBH8?smid=A14CZOWI0VEHLG&linkCode=li3&tag=sahara059-21&linkId=34277300fb61921d763c098d0b779313&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0932QYBH8&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B0932QYBH8" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
+                  <div onClick={() => {window.location.href="https://amzn.to/3KrdIqs"}}  className="card-img">
+                  <a href="https://www.amazon.in/Pre-Order-Lava-Blue-Performance-Processor/dp/B09S3Y2R72?smid=A14CZOWI0VEHLG&pf_rd_r=5066Q3GPWTRNT0EW34KP&pf_rd_p=f690369a-7bb4-48bb-9349-f68a447ef06d&pd_rd_r=46505204-cadf-4923-ac04-bc6f13b3ff44&pd_rd_w=dI0RH&pd_rd_wg=X866z&linkCode=li3&tag=sahara059-21&linkId=442aa42925d552480281dde076255e0b&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09S3Y2R72&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B09S3Y2R72" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
                   </div>
-                  <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3vHPyDK"}} target="_blank">iphone 12</Link>
+                  <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3KrdIqs"}} target="_blank">Lava X2</Link>
                 </div>
                 <div onClick={() => {window.location.href="https://amzn.to/3tyEJBp"}} className="card">
                   <div className="card-img">
