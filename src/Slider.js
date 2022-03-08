@@ -128,6 +128,19 @@ function Slider(){
                   </div>
                   <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3KpSNnp"}} target="_blank">T-shirts</Link>
                 </div>
+
+                <div className="card">
+                  <div className="card-img" onClick={() => {window.location.href="https://amzn.to/3q9Kogv"}}>
+                  <a href="https://www.amazon.in/Yashika-Womens-Blouse-NAURTA-BLUE/dp/B08RDYXY5Q?smid=AT95IG9ONZD7S&linkCode=li3&tag=sahara059-21&linkId=96251cca762ffd89b70f89cb79cc4f31&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08RDYXY5Q&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B08RDYXY5Q" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
+                  </div>
+                  <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3q9Kogv"}} target="_blank">Women's Clothing</Link>
+                </div>
+                <div className="card">
+                  <div className="card-img" onClick={() => {window.location.href="https://amzn.to/34rPkFK"}}>
+                  <a href="https://www.amazon.in/Harpa-Womens-A-Line-Dress-GR3308-BLACK_XL/dp/B01FM7EXZI?smid=AT95IG9ONZD7S&linkCode=li3&tag=sahara059-21&linkId=7042a17a83343cf6386cd38ccd5ac2fe&language=en_IN&ref_=as_li_ss_il" target="_blank"  rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01FM7EXZI&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B01FM7EXZI" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
+                  </div>
+                  <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/34rPkFK"}} target="_blank">Tops & Dresses</Link>
+                </div>
                 <div className="card">
                   <div className="card-img" onClick={() => {window.location.href="https://amzn.to/3MxCNSf"}}>
                   <a href="https://www.amazon.in/Crocs-Bayaband-Black-Clogs-8-205089-066/dp/B0819RJD2D?smid=AT95IG9ONZD7S&linkCode=li3&tag=sahara059-21&linkId=31939c04e7815fcb292edb54078c30bd&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0819RJD2D&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B0819RJD2D" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
