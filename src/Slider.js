@@ -2,7 +2,8 @@ import React from "react";
 import ImageScroller from 'react-image-scroller';
 import './Slider.css';
 import {Link} from 'react-router-dom';
-import './Home.css'
+import './Home.css';
+
 
 
 function Slider(){
@@ -15,10 +16,10 @@ function Slider(){
                 
               <ImageScroller   >
                 <div className="card">
-                  <div onClick={() => {window.location.href="https://amzn.to/3pL6lSP"}}  className="card-img">
-                  <a href="https://www.amazon.in/OPPO-Fantastic-Purple-128GB-Storage/dp/B08VB34KJ1?smid=A14CZOWI0VEHLG&linkCode=li3&tag=sahara059-21&linkId=f36821f0751237ef2df2d2fc18e96217&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08VB34KJ1&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B08VB34KJ1" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
+                  <div onClick={() => {window.location.href="https://amzn.to/3iapeu7"}}  className="card-img">
+                  <a href="https://www.amazon.in/Tecno-Extended-Virtual-Dimensity-Processor/dp/B09QQJNTH7?pf_rd_r=18ZPF3VHXED0HGSZZSA0&pf_rd_p=f690369a-7bb4-48bb-9349-f68a447ef06d&pd_rd_r=36fc2da3-8c2f-43b4-9220-6cd929893b20&pd_rd_w=VJQtk&pd_rd_wg=4XBPX&linkCode=li3&tag=sahara059-21&linkId=a7b028c1e2cfd6f5090724027e40b191&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09QQJNTH7&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B09QQJNTH7" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
                   </div>
-                  <Link  className="card-btn" pathname="deals" onClick={() => {window.location.href="https://amzn.to/3pL6lSP"}} target="_blank">OPPO  </Link>
+                  <Link  className="card-btn" pathname="deals" onClick={() => {window.location.href="https://amzn.to/3iapeu7"}} target="_blank">Tecno POVA  </Link>
                 </div>
                 
                 <div className="card">
@@ -28,28 +29,28 @@ function Slider(){
                   <Link  className="card-btn" pathname="deals" onClick={() => {window.location.href="https://amzn.to/3sMyHh6"}} target="_blank">iQOO Z3 5G</Link>
                 </div>
                 <div className="card">
-                  <div onClick={() => {window.location.href="https://amzn.to/3KrdIqs"}}  className="card-img">
-                  <a href="https://www.amazon.in/Pre-Order-Lava-Blue-Performance-Processor/dp/B09S3Y2R72?smid=A14CZOWI0VEHLG&pf_rd_r=5066Q3GPWTRNT0EW34KP&pf_rd_p=f690369a-7bb4-48bb-9349-f68a447ef06d&pd_rd_r=46505204-cadf-4923-ac04-bc6f13b3ff44&pd_rd_w=dI0RH&pd_rd_wg=X866z&linkCode=li3&tag=sahara059-21&linkId=442aa42925d552480281dde076255e0b&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09S3Y2R72&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B09S3Y2R72" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
+                  <div onClick={() => {window.location.href="https://amzn.to/3qamUHN"}}  className="card-img">
+                  <a href="https://www.amazon.in/Oppo-Prism-Black-Storage-Display/dp/B08V9ZKN9J?smid=A14CZOWI0VEHLG&linkCode=li3&tag=sahara059-21&linkId=b33f0dc72519151fcfa2051b4e9adab6&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08V9ZKN9J&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B08V9ZKN9J" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
                   </div>
-                  <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3KrdIqs"}} target="_blank">Lava X2</Link>
+                  <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3qamUHN"}} target="_blank">OPPO</Link>
                 </div>
                 <div onClick={() => {window.location.href="https://amzn.to/3tyEJBp"}} className="card">
-                  <div className="card-img">
+                  <div onClick={() => {window.location.href="https://amzn.to/3tyEJBp"}} className="card-img">
                   <a href="https://www.amazon.in/HP-15-6-inch-Anti-Glare-Alexa-Built-15s-dy3501TU/dp/B09P1PYGX5?m=A14CZOWI0VEHLG&pd_rd_r=a09c77b1-0c37-4cb4-b135-e2ade9c4f634&pd_rd_w=1GSOa&pd_rd_wg=ciAzb&pf_rd_p=f690369a-7bb4-48bb-9349-f68a447ef06d&pf_rd_r=ZAPWY8GXHA6ACXW6P83Z&qid=1646445393&refinements=p_6%3AA14CZOWI0VEHLG&smid=A14CZOWI0VEHLG&sr=8-1&linkCode=li3&tag=sahara059-21&linkId=eb784af364ce1a4cbaca385c7f16526c&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09P1PYGX5&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B09P1PYGX5" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
                   </div>
                   <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3tyEJBp"}} target="_blank">Laptops</Link>
                 </div>
-                <div onClick={() => {window.location.href="https://amzn.to/3HJnUIP"}} className="card">
-                  <div className="card-img">
-                  <a href="https://www.amazon.in/Mivi-Wireless-Bluetooth-Immersive-Powerful/dp/B08ZYPBSSH?smid=A14CZOWI0VEHLG&th=1&linkCode=li3&tag=sahara059-21&linkId=a195b0c97941b607d225de60352f2ec3&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08ZYPBSSH&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B08ZYPBSSH" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
+                <div onClick={() => {window.location.href="https://amzn.to/3CMOkZj"}} className="card">
+                  <div onClick={() => {window.location.href="https://amzn.to/3CMOkZj"}} className="card-img">
+                  <a href="https://www.amazon.in/Oppo-Atoms%EF%BC%8CNoise-Cancellation-Calls%EF%BC%8CIP54-Resistant/dp/B09G6LTQ8Q?smid=A14CZOWI0VEHLG&linkCode=li3&tag=sahara059-21&linkId=f4e7d1232d55429343c2bb567352164d&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09G6LTQ8Q&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B09G6LTQ8Q" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
                   </div>
-                  <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3HJnUIP"}} target="_blank">Mivi Earbuds </Link>
+                  <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3CMOkZj"}} target="_blank">Accessories</Link>
                 </div>
-                <div onClick={() => {window.location.href="https://amzn.to/3pOidDk"}} className="card">
-                  <div className="card-img">
-                  <a href="https://www.amazon.in/Zoook-Thunder-Bluetooth-Speaker-Karaoke/dp/B07DVYNYPW?smid=A14CZOWI0VEHLG&linkCode=li3&tag=sahara059-21&linkId=7c7c70d050e3e0ec40b0ef3f2208aea8&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07DVYNYPW&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B07DVYNYPW" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
+                <div onClick={() => {window.location.href="https://amzn.to/3u7WSGC"}} className="card">
+                  <div className="card-img" onClick={() => {window.location.href="https://amzn.to/3u7WSGC"}}>
+                  <a href="https://www.amazon.in/HP-Pavilion-Windows-Graphics-15-ec2150AX/dp/B09MF8KMRW?m=A14CZOWI0VEHLG&pd_rd_r=508dd960-1e90-4779-9e90-7c1853455dd9&pd_rd_w=4jhW4&pd_rd_wg=ax9yM&pf_rd_p=f690369a-7bb4-48bb-9349-f68a447ef06d&pf_rd_r=M52FMPR5R0KRTQ49H1GY&qid=1647397543&refinements=p_6%3AA14CZOWI0VEHLG&sr=8-1&linkCode=li3&tag=sahara059-21&linkId=d6d1d27ba54e34453f6ad574118f76d4&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09MF8KMRW&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B09MF8KMRW" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
                   </div>
-                  <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3pOidDk"}} target="_blank">Speakers</Link>
+                  <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3u7WSGC"}} target="_blank">Gaming Laptops</Link>
                 </div>
                 <div className="card">
                   <div className="card-img" onClick={() => {window.location.href="https://amzn.to/3Mm3iu0"}}>
@@ -58,13 +59,13 @@ function Slider(){
                   <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3Mm3iu0"}} target="_blank">Boat Watch Matrix</Link>
                 </div>
                 <div className="card">
-                  <div className="card-img" onClick={() => {window.location.href="https://amzn.to/3pKJ5Ec"}}>
-                  <a href="https://www.amazon.in/Fastrack-Reflex-Digital-Unisex-Adult-Watch-SWD90067PP03A/dp/B08W29ZW6S?smid=AT95IG9ONZD7S&linkCode=li3&tag=sahara059-21&linkId=da385715759981df17974cb554a7da92&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08W29ZW6S&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B08W29ZW6S" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
+                  <div className="card-img" onClick={() => {window.location.href="https://amzn.to/3I8N8kg"}}>
+                  <a href="https://www.amazon.in/HP-247-G8-Warranty-67U77PA/dp/B09RMP6MM7?m=A14CZOWI0VEHLG&pd_rd_r=508dd960-1e90-4779-9e90-7c1853455dd9&pd_rd_w=4jhW4&pd_rd_wg=ax9yM&pf_rd_p=f690369a-7bb4-48bb-9349-f68a447ef06d&pf_rd_r=M52FMPR5R0KRTQ49H1GY&qid=1647398331&refinements=p_6%3AA14CZOWI0VEHLG&sr=8-2&linkCode=li3&tag=sahara059-21&linkId=17a5f4c80a2739eea4726b2d9e96f6e0&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09RMP6MM7&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B09RMP6MM7" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
                   </div>
-                  <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3pKJ5Ec"}} target="_blank">Watches</Link>
+                  <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3I8N8kg"}} target="_blank">Working Laptops</Link>
                 </div>
                 <div className="card">
-                  <div className="card-img">
+                  <div onClick={() => {window.location.href="https://amzn.to/3L5MWoL"}} className="card-img">
                       <a href="https://www.amazon.in/Lenovo-60-45cm-Brightness-FreeSync-G24-20/dp/B09FTCZPW4?pd_rd_r=487a557c-71c1-4592-8dae-73ee88649efe&pd_rd_w=bGH03&pd_rd_wg=3PDQ4&pf_rd_p=f690369a-7bb4-48bb-9349-f68a447ef06d&pf_rd_r=6J95SFHW0JN5WA6Q67VB&qid=1643449649&smid=A14CZOWI0VEHLG&sr=8-6&linkCode=li3&tag=sahara059-21&linkId=72fd32f58e98d514db8ceed6f9889896&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09FTCZPW4&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B09FTCZPW4" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
                   </div>
                   <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3L5MWoL"}} target="_blank">Televisions</Link>
@@ -76,13 +77,13 @@ function Slider(){
                   <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/372whTl"}} target="_blank">Ptron</Link>
                 </div>
                 <div className="card">
-                  <div className="card-img" onClick={() => {window.location.href="https://amzn.to/3KohvVk"}}>
-                  <a href="https://www.amazon.in/Fujifilm-Instax-Square-SQ1-Camera/dp/B08H887HNJ?smid=A14CZOWI0VEHLG&linkCode=li3&tag=sahara059-21&linkId=385b13911d0ee06fd06d6524d09f15ff&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08H887HNJ&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B08H887HNJ" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
+                  <div className="card-img" onClick={() => {window.location.href="https://amzn.to/3wf6QbE"}}>
+                  <a href="https://www.amazon.in/Mivi-Wireless-Bluetooth-Immersive-Assistant/dp/B099ZRK1G4?smid=A14CZOWI0VEHLG&linkCode=li3&tag=sahara059-21&linkId=983f5c14a8d589e8ef34e2dc259ff54d&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B099ZRK1G4&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B099ZRK1G4" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
                   </div>
-                  <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3KohvVk"}} target="_blank">Camers</Link>
+                  <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3wf6QbE"}} target="_blank">Jabra,Mivi & more </Link>
                 </div>
                 <div className="card">
-                  <div className="card-img">
+                  <div onClick={() => {window.location.href="https://amzn.to/3o8wGcK"}} className="card-img">
                   <a href="https://www.amazon.in/boAt-Bassheads-242-Earphones-Carbon/dp/B09FSWY5BP?crid=2YERFL9M9DOXS&pd_rd_r=487a557c-71c1-4592-8dae-73ee88649efe&pd_rd_w=bGH03&pd_rd_wg=3PDQ4&pf_rd_p=f690369a-7bb4-48bb-9349-f68a447ef06d&pf_rd_r=6J95SFHW0JN5WA6Q67VB&qid=1643443641&smid=A14CZOWI0VEHLG&sprefix=b071z8m4kx+b07234xxjf+b07gpxxnng+b07gqd4k6l+b08md255xb+b08md23pmw+b08md2ctdb+b08pp4xsmq+&sr=8-1&linkCode=li3&tag=sahara059-21&linkId=38cd621f7f3e5a0c64e8fcb56fdcd796&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09FSWY5BP&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B09FSWY5BP" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
                   </div>
                   <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3o8wGcK"}} target="_blank">boAt Bassheads</Link>
@@ -96,78 +97,44 @@ function Slider(){
                 </div>
                 <div className="card" onClick={() => {window.location.href="https://amzn.to/3HHSbbd"}} >
               
-                  <div className="card-img">
+                  <div onClick={() => {window.location.href="https://amzn.to/3HHSbbd"}} className="card-img">
                   <a href="https://www.amazon.in/boAt-Airdopes-141-Wireless-Resistance/dp/B09N3ZNHTY?crid=1WVYGZ4Y57C15&pd_rd_r=8e55e33d-9deb-48aa-8f08-98f4b81c8f11&pd_rd_w=ALuic&pd_rd_wg=M735F&pf_rd_p=f690369a-7bb4-48bb-9349-f68a447ef06d&pf_rd_r=8P0NHSFK3E4C6XEB5GBP&qid=1646365093&smid=A14CZOWI0VEHLG&sprefix=%2Celectronics%2C519&sr=8-1&linkCode=li3&tag=sahara059-21&linkId=f30e603f6f67daf1a124c34d8a37b48a&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09N3ZNHTY&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B09N3ZNHTY" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
                   </div>
                   <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3HHSbbd"}} target="_blank">boat Airdopes</Link>
                 </div>
                 <div className="card" onClick={() => {window.location.href="https://amzn.to/3Kgo0JE"}} >
               
-                  <div className="card-img">
+                  <div onClick={() => {window.location.href="https://amzn.to/3Kgo0JE"}} className="card-img">
                   <a href="https://www.amazon.in/Noise-Wireless-Instacharge-Hypersync-Technology/dp/B092DHTXH2?crid=2OJQ3WE6AFKWR&pd_rd_r=8e55e33d-9deb-48aa-8f08-98f4b81c8f11&pd_rd_w=ALuic&pd_rd_wg=M735F&pf_rd_p=f690369a-7bb4-48bb-9349-f68a447ef06d&pf_rd_r=8P0NHSFK3E4C6XEB5GBP&qid=1646365683&smid=A14CZOWI0VEHLG&sprefix=b09lcfzmgd+b09dd7f3cb+b09dd68jxr+b09d3ys64w+b09d3x79fc+b095z1nbk6+b095yzb3ms+b092zfv1fc+b092dhtxh2+b08vr9nrz5+b08sw6mqmd+b08sw5f9gj+b08svzjnvp+b08svpw1jq+b08l8xsjwb+b08h8q5klk+b08h8n3rkt%2Caps%2C607&sr=8-2&linkCode=li3&tag=sahara059-21&linkId=6678705ec32517a97fecaa2e336ab2fc&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B092DHTXH2&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B092DHTXH2" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
                   </div>
                   <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3Kgo0JE"}} target="_blank">Noise Airbuds</Link>
                 </div>
                 <div className="card" onClick={() => {window.location.href="https://amzn.to/3hFoAob"}} >
               
-                  <div className="card-img">
+                  <div onClick={() => {window.location.href="https://amzn.to/3hFoAob"}} className="card-img">
                   <a href="https://www.amazon.in/Launched-Wings-Playtime-Bluetooth-Resistance/dp/B09PTCL27V?crid=1S5ZORINW02FH&pd_rd_r=a09c77b1-0c37-4cb4-b135-e2ade9c4f634&pd_rd_w=1GSOa&pd_rd_wg=ciAzb&pf_rd_p=f690369a-7bb4-48bb-9349-f68a447ef06d&pf_rd_r=ZAPWY8GXHA6ACXW6P83Z&qid=1646446774&smid=A14CZOWI0VEHLG&sprefix=b09ptjmcc4+b09ptcl27v%2Caps%2C335&sr=8-1&linkCode=li3&tag=sahara059-21&linkId=3776297d9d515a6f8145c5550dbeba61&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09PTCL27V&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B09PTCL27V" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
                   </div>
                   <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3hFoAob"}} target="_blank">Phantom Gaming Earbuds</Link>
                 </div>
                 
                 <div className="card">
-                  <div className="card-img" onClick={() => {window.location.href="https://amzn.to/3Chvg5f"}}>
-                  <a href="https://www.amazon.in/AGARO-Professional-Concentrator-Diffuser-Temperature/dp/B094XSDC41?smid=A2GTG1HPYW8M2P&linkCode=li3&tag=sahara059-21&linkId=880c7a6cce098a0c21d0fc69128ea78a&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B094XSDC41&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B094XSDC41" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
+                  <div className="card-img" onClick={() => {window.location.href="https://amzn.to/3winTJM"}}>
+                  <a href="https://www.amazon.in/Naturoz-California-Almonds-500g/dp/B075QHQV2J?smid=AT95IG9ONZD7S&linkCode=li3&tag=sahara059-21&linkId=9f8fe3c29dabb83d65e3543f9d5e2973&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B075QHQV2J&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B075QHQV2J" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
                   </div>
-                  <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3Chvg5f"}} target="_blank">Grooming Devices</Link>
+                  <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3winTJM"}} target="_blank">Daily food essentials</Link>
                 </div>
-                <div className="card">
-                  <div className="card-img" onClick={() => {window.location.href="https://amzn.to/3KpSNnp"}}>
-                  <a href="https://www.amazon.in/Seven-Rocks-Regular-T-Shirt-L-T15-NB/dp/B07BQCVTSS?smid=AT95IG9ONZD7S&linkCode=li3&tag=sahara059-21&linkId=759581b9b671fcb01502cf14aeb3da02&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07BQCVTSS&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B07BQCVTSS" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
-                  </div>
-                  <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3KpSNnp"}} target="_blank">T-shirts</Link>
-                </div>
-
-                <div className="card">
-                  <div className="card-img" onClick={() => {window.location.href="https://amzn.to/3q9Kogv"}}>
-                  <a href="https://www.amazon.in/Yashika-Womens-Blouse-NAURTA-BLUE/dp/B08RDYXY5Q?smid=AT95IG9ONZD7S&linkCode=li3&tag=sahara059-21&linkId=96251cca762ffd89b70f89cb79cc4f31&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08RDYXY5Q&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B08RDYXY5Q" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
-                  </div>
-                  <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3q9Kogv"}} target="_blank">Women's Clothing</Link>
-                </div>
-                <div className="card">
-                  <div className="card-img" onClick={() => {window.location.href="https://amzn.to/34rPkFK"}}>
-                  <a href="https://www.amazon.in/Harpa-Womens-A-Line-Dress-GR3308-BLACK_XL/dp/B01FM7EXZI?smid=AT95IG9ONZD7S&linkCode=li3&tag=sahara059-21&linkId=7042a17a83343cf6386cd38ccd5ac2fe&language=en_IN&ref_=as_li_ss_il" target="_blank"  rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01FM7EXZI&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B01FM7EXZI" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
-                  </div>
-                  <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/34rPkFK"}} target="_blank">Tops & Dresses</Link>
-                </div>
-                <div className="card">
-                  <div className="card-img" onClick={() => {window.location.href="https://amzn.to/3MxCNSf"}}>
-                  <a href="https://www.amazon.in/Crocs-Bayaband-Black-Clogs-8-205089-066/dp/B0819RJD2D?smid=AT95IG9ONZD7S&linkCode=li3&tag=sahara059-21&linkId=31939c04e7815fcb292edb54078c30bd&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0819RJD2D&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B0819RJD2D" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
-                  </div>
-                  <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3MxCNSf"}} target="_blank">Crocs, Converse & more</Link>
-                </div>
+                
                 
                 
                
-                <div className="card">
-                  <div className="card-img" onClick={() => {window.location.href="https://amzn.to/35xbKpx"}}>
-                  <a href="https://www.amazon.in/Adidas-Mens-Clinch-X-Running-Shoe/dp/B08FZVSR7V?smid=AT95IG9ONZD7S&linkCode=li3&tag=sahara059-21&linkId=900845624084d20e8d70e37223588fa5&language=en_IN&ref_=as_li_ss_il" target="_blank"rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08FZVSR7V&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img alt="s" src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B08FZVSR7V" width={1} height={1} border={0}  style={{border: 'none !important', margin: '0px !important'}} />
-                  </div>
-                  <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/35xbKpx"}} target="_blank">Adidas,Bata & more</Link>
-                </div>
+                
                 <div className="card">
                   <div className="card-img" onClick={() => {window.location.href="https://amzn.to/3HFvVi1"}}>
                   <a href="https://www.amazon.in/dp/B086R48ZN6?pf_rd_m=A1K21FY43GMZF8&pf_rd_s=merchandised-search-2&pf_rd_r=9S7E2YZ4Y6AYTT1R72F7&pf_rd_t=101&pf_rd_p=a31ad646-ac57-433c-bdf3-0a5be80ecf6b&pf_rd_i=26695656031&linkCode=li3&tag=sahara059-21&linkId=cfb060bafa1146d4a3a242841521e45b&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B086R48ZN6&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B086R48ZN6" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
                   </div>
                   <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3HFvVi1"}} target="_blank">Cycles</Link>
                 </div>
-                <div className="card">
-                  <div className="card-img" onClick={() => {window.location.href="https://amzn.to/35FzBU3"}}>
-                  <a href="https://www.amazon.in/Nike-Experience-University-Grey-White-CI9960-005/dp/B08Q8SKH76?smid=AT95IG9ONZD7S&linkCode=li3&tag=sahara059-21&linkId=c6bfebaa419560e1b500aa87c52b9a4a&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08Q8SKH76&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B08Q8SKH76" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
-                  </div>
-                  <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/35FzBU3"}} target="_blank">Nike, Skechers & more</Link>
-                </div>
+                
                 
                 
                 

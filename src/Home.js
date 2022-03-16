@@ -38,7 +38,11 @@ function Home(){
                         <Slider/>
                     </div>
                   
-                    
+                    <div>
+                        <h2>
+                            EXPLORE THE METAVERSE
+                        </h2>
+                    </div>
                     <div>
                         <ScrollingText/>
                     </div>
