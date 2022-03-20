@@ -53,7 +53,7 @@ function Footer(){
            
            <div className='footer_down'>
                <img className='Gmail_icon' src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png'  alt="f" />
-               <Link  className='footer_mail'>sahara.pcv@gmail.com</Link><p className='footer_mail'>| All rights are reserved | &copy;{new Date().getFullYear()},SAHARA.com/TheOceanGadgets|</p>
+               <Link  className='footer_mail'>sahara.pcv@gmail.com</Link><p className='footer_mail'>| All rights are reserved | &copy;{new Date().getFullYear()},sahara.netlify.app|</p>
            </div>
            
            
