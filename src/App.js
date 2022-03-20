@@ -12,7 +12,7 @@ import Mobiles from './Mobiles';
 import Televisions from './Televisions';
 import Watches from './Watches';
 import Gifts from './Gifts';
-import Sahara from './Sahara'
+import Sahara from './Sahara';
 
 
 
