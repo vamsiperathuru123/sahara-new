@@ -29,10 +29,10 @@ function Slider(){
                   <Link  className="card-btn" pathname="deals" onClick={() => {window.location.href="https://amzn.to/3sMyHh6"}} target="_blank">iQOO Z3 5G</Link>
                 </div>
                 <div className="card">
-                  <div onClick={() => {window.location.href="https://amzn.to/3qamUHN"}}  className="card-img">
+                  <div onClick={() => {window.location.href="https://amzn.to/3tpoXtJ"}}  className="card-img">
                   <a href="https://www.amazon.in/Oppo-Prism-Black-Storage-Display/dp/B08V9ZKN9J?smid=A14CZOWI0VEHLG&linkCode=li3&tag=sahara059-21&linkId=b33f0dc72519151fcfa2051b4e9adab6&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08V9ZKN9J&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B08V9ZKN9J" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
                   </div>
-                  <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3qamUHN"}} target="_blank">OPPO</Link>
+                  <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3tpoXtJ"}} target="_blank">OPPO</Link>
                 </div>
                 <div onClick={() => {window.location.href="https://amzn.to/3tyEJBp"}} className="card">
                   <div onClick={() => {window.location.href="https://amzn.to/3tyEJBp"}} className="card-img">
@@ -40,11 +40,11 @@ function Slider(){
                   </div>
                   <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3tyEJBp"}} target="_blank">Laptops</Link>
                 </div>
-                <div onClick={() => {window.location.href="https://amzn.to/3CMOkZj"}} className="card">
-                  <div onClick={() => {window.location.href="https://amzn.to/3CMOkZj"}} className="card-img">
-                  <a href="https://www.amazon.in/Oppo-Atoms%EF%BC%8CNoise-Cancellation-Calls%EF%BC%8CIP54-Resistant/dp/B09G6LTQ8Q?smid=A14CZOWI0VEHLG&linkCode=li3&tag=sahara059-21&linkId=f4e7d1232d55429343c2bb567352164d&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09G6LTQ8Q&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B09G6LTQ8Q" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
+                <div onClick={() => {window.location.href="https://amzn.to/3D06SFN"}} className="card">
+                  <div onClick={() => {window.location.href="https://amzn.to/3D06SFN"}} className="card-img">
+                  <a href="https://www.amazon.in/Steelbird-SBH-17-Terminator-Graphic-Helmet/dp/B089J518DC?smid=AHXTPWY14UPXE&linkCode=li3&tag=sahara059-21&linkId=29cab43463da7dedcbd50eef7eb97c01&language=en_IN&ref_=as_li_ss_il" target="_blank" rel="noopener noreferrer"><img alt="s" border={0} src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B089J518DC&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=sahara059-21&language=en_IN" /></a><img  src="https://ir-in.amazon-adsystem.com/e/ir?t=sahara059-21&language=en_IN&l=li3&o=31&a=B089J518DC" width={1} height={1} border={0} alt="s" style={{border: 'none !important', margin: '0px !important'}} />
                   </div>
-                  <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3CMOkZj"}} target="_blank">Accessories</Link>
+                  <Link className="card-btn"  pathname="deals" onClick={() => {window.location.href="https://amzn.to/3D06SFN"}} target="_blank">Helmets</Link>
                 </div>
                 <div onClick={() => {window.location.href="https://amzn.to/3u7WSGC"}} className="card">
                   <div className="card-img" onClick={() => {window.location.href="https://amzn.to/3u7WSGC"}}>
